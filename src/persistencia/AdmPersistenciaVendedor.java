@@ -21,7 +21,6 @@ public class AdmPersistenciaVendedor extends AdministradorPersistencia{
 		if (instancia == null)
 			instancia = new AdmPersistenciaVendedor();
 		return instancia;
-		sdsad
 	}
 	public void delete(Object o){
 		/*try{
